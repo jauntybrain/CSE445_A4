@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+ <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.7">
+    <Name>Royal Palms Resort and Spa - The Unbound Collection by Hyatt</Name>
+    <Phone>602-283-1234</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>5200</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85018</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.7">
+    <Name>Canopy by Hilton Scottsdale Old Town</Name>
+    <Phone>480-590-3864</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>7142</Number>
+      <Street>E 1st St</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.7">
+    <Name>Bespoke Inn Scottsdale</Name>
+    <Phone>602-620-8052</Phone>
+    <Phone>844-861-6715</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>3701</Number>
+      <Street>N Marshall Way</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Embassy Suites by Hilton Phoenix Downtown North</Name>
+    <Phone>602-222-1111</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>10</Number>
+      <Street>E Thomas Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85012</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.5">
+    <Name>Residence Inn Phoenix Downtown</Name>
+    <Phone>800-627-7468</Phone>
+    <Phone>602-603-2002</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>132</Number>
+      <Street>S Central Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>The Global Ambassador</Name>
+    <Phone>480-800-2211</Phone>
+    <Phone>888-841-7516</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>4360</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85018</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.4">
+    <Name>Hampton Inn Queen Creek</Name>
+    <Phone>480-888-7474</Phone>
+    <Address NearestAirport="Mesa Gateway Airport">
+      <Number>20768</Number>
+      <Street>E Maya Rd</Street>
+      <City>Queen Creek</City>
+      <State>AZ</State>
+      <Zip>85142</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Four Points by Sheraton Tucson Airport</Name>
+    <Phone>520-746-0271</Phone>
+    <Address NearestAirport="Tucson International Airport">
+      <Number>7060</Number>
+      <Street>S Tucson Blvd</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85756</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.5">
+    <Name>Hotel Congress</Name>
+    <Phone>520-622-8848</Phone>
+    <Address NearestAirport="Tucson International Airport">
+      <Number>311</Number>
+      <Street>E Congress St</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85701</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.4">
+    <Name>Scottsdale Marriott at McDowell Mountains</Name>
+    <Phone>480-502-3836</Phone>
+    <Address NearestAirport="Scottsdale Airport">
+      <Number>16770</Number>
+      <Street>N Perimeter Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85260</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
